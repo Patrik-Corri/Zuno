@@ -1,6 +1,8 @@
 
 # 🧢 Zuno — UNF Student Marketplace
 
+https://zuno-iota.vercel.app/
+
 Zuno is a full-stack web application built specifically for students at the University of North Florida (UNF). It serves as a secure and fun online marketplace where verified students can buy, sell, and chat about goods and services directly within their university community.
 
 ## 🎯 Purpose
